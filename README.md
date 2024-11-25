@@ -9,3 +9,4 @@ NOTE: Project that I developed on the [freeCodeCamp](https://www.freecodecamp.or
 Course Title: Learn Asynchronous Programming by Building an fCC Forum Leaderboard.
 
 Course Description: This project will cover the Fetch API, promises, Async/Await, and the try..catch statement.
+
